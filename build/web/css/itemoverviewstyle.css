@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Jul-2017, 9:24:10 AM
+    Author     : Christian Romar Paul Serad
+*/
+
+section{
+    font-family: verdana;
+}
+
+section p{
+    margin: 5px 0px;
+}
+
+section form{
+    margin: 20px 0px;
+}
+
+section img{
+    width: 25%;
+    height: 25%;
+}
